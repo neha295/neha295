@@ -23,19 +23,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **FrontEnd Designing**
+- 🌱 I’m currently learning **Software engineering**
 
-- 👨‍💻 All of my projects are available at [https://anshul-kumar33.github.io/My-Portfolio/](https://anshul-kumar33.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [)
 
 - 💬 Ask me about **WebDesigning with Best Animations**
 
-- 📫 How to reach me **anshukumar921182@gmail.com**
+- 📫 How to reach me **nehasharmam9887@gmail.com**
 
 - ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anshul-kumar-4a4949287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-kumar-4a4949287" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/anshul-kumar-4a4949287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-kumar-4a4949287" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
